@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1526068398 source:d:\faculdade\estrutura de dados\2018\listasduplbonus\listasduplbonus.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"ListasDuplBonus.h"
+
+1526068454 d:\faculdade\estrutura de dados\2018\listasduplbonus\listasduplbonus.h
+
+1526067244 source:d:\faculdade\estrutura de dados\2018\listasduplbonus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"ListasDuplBonus.h"
+
